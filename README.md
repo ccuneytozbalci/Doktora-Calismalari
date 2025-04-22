@@ -8,3 +8,5 @@
 2. GNN ile ilgili kodlar araştırıldı. Git'e yüklendi.
 3. Kurslarla ilgili notlar Stanford Universitesi GNN Kursları dizinine yüklendi.
 4. Tübitak projeleri örnekleri incelendi. (Proje gönderimi 28 Nisan'a kadar)
+5. markup lar araştırıldı, visual studio kuruldu.
+6. Dap projesi yazılacak.
