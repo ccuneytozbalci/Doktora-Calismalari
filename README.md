@@ -13,3 +13,4 @@
 29.04.2025
 1. BAP projesi hazırlandı.
 2. Pdf kitaplar genel hatlarıyla incelendi, kütüphaneye eklendi.
+3. Makaleler Mendeley'e aktarıldı.
