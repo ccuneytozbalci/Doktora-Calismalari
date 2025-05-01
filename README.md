@@ -1,4 +1,4 @@
-##GNN-Calismalar__
+## __ GNN-Calismalar
 ## 16.04.2025
 1. Stanford CS224W: Machine Learning with Graphs -> Kursu 15. derse gelindi.
 2. Cora dataset ile ilgili kodlar incelendi
