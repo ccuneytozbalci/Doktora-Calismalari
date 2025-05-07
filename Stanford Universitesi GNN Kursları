@@ -1,17 +1,18 @@
 Standford University - Machine Learning with Graphs - Lessons
 
-1- Why Graphs --- 				Grafların kullanım alanları, Grafların derin öğrenmedeki uygulamaları
-2- Applications of Graph ML --- 		Graflarda Node level ve Edge level ilişkiler ve uygulaması
-3- Choice of Graph Representation​ --- 		Node ve Edge ile ilgili teknik detaylar (komşuluk matrisi, node dereceleri, ağırlıklandırılmış-ağırlıklandırılmamış) graf)
-4- Traditional Feature-based Methods: Node	Node classification, node clustering ve feature dizaynı
-5- Traditional Feature-based Methods: Link	Node'ların çakışması, link level prediction ve link prediction
-6- Traditional Feature-based Methods: Graph	Çeşitli Kernel Yöntemleri (weisfeiler lehman, color refinement)
-7- Node Embeddings				Node'lardan vektör oluşturma ve çok boyutlu matris oluşturma, node'ların benzerliğini tespit etme
+1- Why Graphs --- 				                          Grafların kullanım alanları, Grafların derin öğrenmedeki uygulamaları
+2- Applications of Graph ML --- 		                Graflarda Node level ve Edge level ilişkiler ve uygulaması
+3- Choice of Graph Representation​ --- 		          Node ve Edge ile ilgili teknik detaylar (komşuluk matrisi, node dereceleri, ağırlıklandırılmış-ağırlıklandırılmamış) graf)
+4- Traditional Feature-based Methods:               Node	Node classification, node clustering ve feature dizaynı
+5- Traditional Feature-based Methods:               Link	Node'ların çakışması, link level prediction ve link prediction
+6- Traditional Feature-based Methods:               Graph	Çeşitli Kernel Yöntemleri (weisfeiler lehman, color refinement)
+7- Node Embeddings:                    				      Node'lardan vektör oluşturma ve çok boyutlu matris oluşturma, node'ların benzerliğini tespit etme
 8- Random Walk Approaches for Node Embeddings	2.20: Random Walk, 17.29: node2vec -- bu yöntemlerin kullanışlılığı, avantajları..
-9- Embedding Entire Graphs			Graf embedding, clustering detection, node classification, link prediction
-10- PageRank					Link analiz algoritmaları -- 7.37: PageRank**
-11- PageRank: How to Solve?			PageRank'te karşılaşılan sorunların çözümleri
-12- Random Walk with Restarts			0-3.27: Node'lar arası benzerlik ölçümleri, 7.20: Pixie Random Walk, personalized PageRank   
-13- Matrix Factorization and Node Embeddings	Random Walk benzerlik tespiti, graftan matrix oluşturma
-14- Message passing and Node Classification	Network'ler arası korelasyon, homofili, yarı denetimli öğrenme, kollektif sınıflandırma
-15- Relational and Iterative Classification	İteratif Sınıflandırma - vektörler ve node'lar üzerinde çalışılmış
+9- Embedding Entire Graphs:			                    Graf embedding, clustering detection, node classification, link prediction
+10- PageRank					                              Link analiz algoritmaları -- 7.37: PageRank**
+11- PageRank: How to Solve?			                    PageRank'te karşılaşılan sorunların çözümleri
+12- Random Walk with Restarts			                  0-3.27: Node'lar arası benzerlik ölçümleri, 7.20: Pixie Random Walk, personalized PageRank   
+13- Matrix Factorization and Node Embeddings	      Random Walk benzerlik tespiti, graftan matrix oluşturma
+14- Message passing and Node Classification	        Network'ler arası korelasyon, homofili, yarı denetimli öğrenme, kollektif sınıflandırma
+15- Relational and Iterative Classification	        İteratif Sınıflandırma - vektörler ve node'lar üzerinde çalışılmış - 0:30 - 9.30: Rational classification, 10.30 - 16.55: Iterative classification, 16.55: Web classification
+16-
