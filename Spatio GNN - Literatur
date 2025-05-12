@@ -1,0 +1,16 @@
+Spatio GNN Literature
+
+1- AST-GNN: An attention-based spatio-temporal graph neural network for Interaction-aware pedestrian trajectory prediction
+Bu çalışma, yaya hareketlerinin daha doğru bir şekilde tahmin edilmesi için attention mekanizması kullanan bir uzamsal-zamansal grafik sinir ağı (AST-GNN) önermektedir. ETH ve UCY veri setleri kullanılan çalışmada; yayalar düğüm, yayaların hareketleri ise kenarlar olarak temsil edilmiştir. Attention mekanizması, yayaların konumlarından çıkarım yaparak hareket örüntülerini keşfedip grup davranışlarını öğrenmektedir. Modelde, encoder aşaması ve decoder aşaması sırayla çalışmaktadır. Encoder aşamasında attention mekanizması çalışmakta, decoder aşamasında ise tahmin işlemi gerçekleştirilmektedir.
+2- SST-GNN: Simplified Spatio-Temporal Traffic Forecasting Model Using Graph Neural Network 
+Bu çalışmada, SST-GNN trafik tahmin modeli geliştirilmiştir. Çalışmada PeMSD4, PeMSD7, PeMSD8 veri setleri kullanılmıştır. Model, düğümler arası komşulukların etkilerini hassas bir şekilde ele almaktadır. Düğümler: kavşaklar; kenarlar: ilişki dereceleri, düğümler arasındaki fiziksel yollar olmak üzere modellenmiştir. Farklı zaman dilimlerinden gelen mekânsal temsilleri ağırlıklı olarak birleştirerek, uzun vadeli zamansal bağımlılıkları daha iyi yakalamaktadır. Bu yaklaşım, geleneksel RNN tabanlı yöntemlerin uzun vadeli bağımlılıkları yakalamadaki yetersizliklerini aşmayı hedeflemektedir.
+
+3- Urban intersection traffic flow prediction: A physics-guided stepwise framework utilizing spatio-temporal graph neural network algorithms
+
+Bu çalışmada, PG-STGNN modeli geliştirilerek trafik akışı tahmini gerçekleştirilmiştir. Veri seti, Pekin'in Yizhuang Bölgesi'ndeki gerçek dünya trafik verileridir. Kavşaklardaki araçların zamana göre değişimleri ve yollarla aralarındaki ilişki modellenmiştir. Çalışmada, Spatio-GNN yapısı ile birlikte attention mekanizması da kullanılmıştır. MAE, MSRE ve MAPE metrikleri ile elde edilen başarımlar, diğer algoritmalara göre üstün bir performans göstermiştir. 
+
+4- A Graph Neural Network (GNN)-Based Approach for Real-Time Estimation of Traffic Speed in Sustainable Smart Cities
+
+Bu çalışmada, gerçek zamanlı trafik hızı tahmini için geliştirilen STGGAN yöntemi sunulmaktadır. Yöntem, kentsel yol ağlarını bir grafik yapısı olarak modelleyerek trafik hızı ile ilgili tahminler üretmektedir. STGGAN, zamana ve mekana bağlıdır. Grafdaki yönlü bağlantılar ve geçmiş trafik verileri dikkate alınarak gelecekteki trafik hızları tahmin edilir. GRU (Gated Recurrent Unit) ile zamana bağlılık yakalanır. GAT (Graph Attention Network) ile yol segmentleri arası mekânsal etkileşim modellenir. Çalışmada gerçek trafik verilerini içeren PeMSD4 ve PeMSD8 veri setleri kullanılmıştır. PeMSD4 için %96.67, PeMSD8 için ise %98.75 gibi doğruluk oranlarına ulaşılabilmiştir.
+
+5- 
