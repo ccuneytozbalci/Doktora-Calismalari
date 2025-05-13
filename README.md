@@ -15,6 +15,10 @@
 2. Pdf kitaplar genel hatlarıyla incelendi, kütüphaneye eklendi.
 3. Makaleler Mendeley'e aktarıldı.
 
-## 06.02.2025
+## 06.05.2025
 1. 2 adet literatür incelendi.
 2. 1 makalenin kodları araştırıldı.
+
+## 13.05.2025
+
+1. 5 adet literatür incelendi.
