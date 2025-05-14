@@ -21,4 +21,4 @@
 
 ## 13.05.2025
 
-1. 7 adet literatür incelendi.
+1. 7 adet literatür incelendi. (Spatio GNN - Trafik)
