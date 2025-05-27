@@ -22,3 +22,8 @@
 ## 13.05.2025
 
 1. 7 adet literatür incelendi. (Spatio GNN - Trafik)
+
+## 27.05.2025
+
+1. 10 adet literatür incelendi. (Spatio GNN - Trafik)
+2. DTP Projesinde düzenlemeler yapıldı.
