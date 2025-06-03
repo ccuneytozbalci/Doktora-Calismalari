@@ -27,3 +27,8 @@
 
 1. 10 adet literatür incelendi. (Spatio GNN - Trafik)
 2. DTP Projesinde düzenlemeler yapıldı.
+
+## 03.06.2025
+
+1. Örnek Survey makaleleler incelendi.
+2. Spatio GNN projelerine ait kodlar incelendi.
