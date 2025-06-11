@@ -32,3 +32,7 @@
 
 1. Örnek Survey makaleleler incelendi.
 2. Spatio GNN projelerine ait kodlar incelendi.
+
+## 10.06.2025
+
+Bayram Tatili
